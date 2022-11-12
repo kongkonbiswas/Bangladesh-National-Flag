@@ -5,7 +5,7 @@
 [E-mail](kongkonbiswas3241@gmail.com).
 
 # Key Features
-This is a drowing project by python. 
+This is a drawing project by python. 
 
 ## Features
 - Pygame
